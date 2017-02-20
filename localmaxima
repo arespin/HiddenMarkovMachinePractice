@@ -1,0 +1,195 @@
+
+
+State0 To State: 0 Prob: 0.3719489787276693
+State0 To State: 1 Prob: 0.6280510212723307
+State1 To State: 0 Prob: 0.29340982617803657
+State1 To State: 1 Prob: 0.7065901738219634
+Final Iteration's Plog Sum: 22331.66081399502
+
+State0 To State: 0 Prob: 0.361692142915493
+State0 To State: 1 Prob: 0.638307857084507
+State1 To State: 0 Prob: 0.6099492810899364
+State1 To State: 1 Prob: 0.3900507189100636
+Final Iteration's Plog Sum: 22331.66760747785
+
+State0 To State: 0 Prob: 0.8124793482375118
+State0 To State: 1 Prob: 0.18752065176248822
+State1 To State: 0 Prob: 0.32571273180558724
+State1 To State: 1 Prob: 0.6742872681944128
+Final Iteration's Plog Sum: 22331.658515053896
+
+State0 To State: 0 Prob: 0.5335806121810894
+State0 To State: 1 Prob: 0.46641938781891057
+State1 To State: 0 Prob: 0.8042934318380843
+State1 To State: 1 Prob: 0.19570656816191567
+Final Iteration's Plog Sum: 22331.66186644169
+
+State0 To State: 0 Prob: 0.5202468381977762
+State0 To State: 1 Prob: 0.4797531618022238
+State1 To State: 0 Prob: 0.64368533888475
+State1 To State: 1 Prob: 0.35631466111525
+Final Iteration's Plog Sum: 22331.657282799108
+
+State0 To State: 0 Prob: 0.8140364351899643
+State0 To State: 1 Prob: 0.18596356481003573
+State1 To State: 0 Prob: 0.3158280516156662
+State1 To State: 1 Prob: 0.6841719483843338
+Final Iteration's Plog Sum: 22331.654855054207
+
+State0 To State: 0 Prob: 0.02345602703179872
+State0 To State: 1 Prob: 0.9765439729682013
+State1 To State: 0 Prob: 0.900266496813513
+State1 To State: 1 Prob: 0.099733503186487
+Final Iteration's Plog Sum: 22110.654573885946
+
+State0 To State: 0 Prob: 0.22207066478805826
+State0 To State: 1 Prob: 0.7779293352119417
+State1 To State: 0 Prob: 0.5975448219941205
+State1 To State: 1 Prob: 0.4024551780058795
+Final Iteration's Plog Sum: 22331.647911807864
+
+State0 To State: 0 Prob: 0.303568496601204
+State0 To State: 1 Prob: 0.696431503398796
+State1 To State: 0 Prob: 0.6976414963872296
+State1 To State: 1 Prob: 0.3023585036127704
+Final Iteration's Plog Sum: 22331.661916423167
+
+State0 To State: 0 Prob: 0.9015457255044184
+State0 To State: 1 Prob: 0.09845427449558164
+State1 To State: 0 Prob: 0.5920312844559711
+State1 To State: 1 Prob: 0.4079687155440289
+Final Iteration's Plog Sum: 22331.65577207055
+
+State0 To State: 0 Prob: 0.097065072136588
+State0 To State: 1 Prob: 0.902934927863412
+State1 To State: 0 Prob: 0.7111289871568552
+State1 To State: 1 Prob: 0.28887101284314476
+Final Iteration's Plog Sum: 22331.66905900772
+
+State0 To State: 0 Prob: 0.6096119662953685
+State0 To State: 1 Prob: 0.3903880337046315
+State1 To State: 0 Prob: 0.8482666919366929
+State1 To State: 1 Prob: 0.1517333080633071
+Final Iteration's Plog Sum: 22331.653715726963
+
+State0 To State: 0 Prob: 0.2828367904571828
+State0 To State: 1 Prob: 0.7171632095428172
+State1 To State: 0 Prob: 0.235684166053297
+State1 To State: 1 Prob: 0.764315833946703
+Final Iteration's Plog Sum: 22331.66260680464
+
+State0 To State: 0 Prob: 0.3638221529830151
+State0 To State: 1 Prob: 0.6361778470169849
+State1 To State: 0 Prob: 0.6016952097279417
+State1 To State: 1 Prob: 0.39830479027205834
+Final Iteration's Plog Sum: 22331.660591066593
+
+State0 To State: 0 Prob: 0.9867350545405977
+State0 To State: 1 Prob: 0.013264945459402266
+State1 To State: 0 Prob: 0.3934463534505319
+State1 To State: 1 Prob: 0.6065536465494681
+Final Iteration's Plog Sum: 22331.27247378038
+
+State0 To State: 0 Prob: 0.8298616495568548
+State0 To State: 1 Prob: 0.17013835044314518
+State1 To State: 0 Prob: 0.7834836876074335
+State1 To State: 1 Prob: 0.21651631239256652
+Final Iteration's Plog Sum: 22331.661738346367
+
+State0 To State: 0 Prob: 0.3278652380064838
+State0 To State: 1 Prob: 0.6721347619935162
+State1 To State: 0 Prob: 0.19801528763675458
+State1 To State: 1 Prob: 0.8019847123632454
+Final Iteration's Plog Sum: 22331.663319955554
+
+State0 To State: 0 Prob: 0.02662254636190653
+State0 To State: 1 Prob: 0.9733774536380935
+State1 To State: 0 Prob: 0.026883400010779934
+State1 To State: 1 Prob: 0.9731165999892201
+Final Iteration's Plog Sum: 22331.656561929623
+
+State0 To State: 0 Prob: 0.6005047051945156
+State0 To State: 1 Prob: 0.3994952948054844
+State1 To State: 0 Prob: 0.44364648202268786
+State1 To State: 1 Prob: 0.5563535179773121
+Final Iteration's Plog Sum: 22331.657471731585
+
+State0 To State: 0 Prob: 0.9729342595807701
+State0 To State: 1 Prob: 0.027065740419229933
+State1 To State: 0 Prob: 0.04745311179562928
+State1 To State: 1 Prob: 0.9525468882043707
+Final Iteration's Plog Sum: 22274.24839101146
+
+State0 To State: 0 Prob: 0.2648836097180901
+State0 To State: 1 Prob: 0.7351163902819099
+State1 To State: 0 Prob: 0.48229691429406185
+State1 To State: 1 Prob: 0.5177030857059381
+Final Iteration's Plog Sum: 22331.65904646302
+
+State0 To State: 0 Prob: 0.2574326205890751
+State0 To State: 1 Prob: 0.7425673794109249
+State1 To State: 0 Prob: 0.18605489524026275
+State1 To State: 1 Prob: 0.8139451047597372
+Final Iteration's Plog Sum: 22331.686812891458
+
+State0 To State: 0 Prob: 0.7274146170183933
+State0 To State: 1 Prob: 0.2725853829816067
+State1 To State: 0 Prob: 0.22923061312156467
+State1 To State: 1 Prob: 0.7707693868784353
+Final Iteration's Plog Sum: 22331.654771224246
+
+State0 To State: 0 Prob: 0.5639876772869824
+State0 To State: 1 Prob: 0.4360123227130176
+State1 To State: 0 Prob: 0.8987508760329354
+State1 To State: 1 Prob: 0.10124912396706465
+Final Iteration's Plog Sum: 22331.660583615605
+
+State0 To State: 0 Prob: 0.4670073486777686
+State0 To State: 1 Prob: 0.5329926513222314
+State1 To State: 0 Prob: 0.8242784985608786
+State1 To State: 1 Prob: 0.17572150143912135
+Final Iteration's Plog Sum: 22331.64995995501
+
+State0 To State: 0 Prob: 0.0614607411293141
+State0 To State: 1 Prob: 0.9385392588706859
+State1 To State: 0 Prob: 0.5091487999452233
+State1 To State: 1 Prob: 0.49085120005477667
+Final Iteration's Plog Sum: 22331.66410063866
+
+State0 To State: 0 Prob: 0.44048090067279233
+State0 To State: 1 Prob: 0.5595190993272077
+State1 To State: 0 Prob: 0.8604547280207513
+State1 To State: 1 Prob: 0.1395452719792487
+Final Iteration's Plog Sum: 22331.637928320895
+
+State0 To State: 0 Prob: 0.0652006912898716
+State0 To State: 1 Prob: 0.9347993087101284
+State1 To State: 0 Prob: 0.5373203720475836
+State1 To State: 1 Prob: 0.46267962795241635
+Final Iteration's Plog Sum: 22331.64426808747
+
+State0 To State: 0 Prob: 0.34684976599630923
+State0 To State: 1 Prob: 0.6531502340036908
+State1 To State: 0 Prob: 0.8380583815096441
+State1 To State: 1 Prob: 0.16194161849035593
+Final Iteration's Plog Sum: 22331.636426935056
+
+State0 To State: 0 Prob: 0.029245069400710144
+State0 To State: 1 Prob: 0.9707549305992899
+State1 To State: 0 Prob: 0.33464903265797386
+State1 To State: 1 Prob: 0.6653509673420261
+Final Iteration's Plog Sum: 22331.47448909986
+
+State0 To State: 0 Prob: 0.6424169488898082
+State0 To State: 1 Prob: 0.35758305111019184
+State1 To State: 0 Prob: 0.18830504606743093
+State1 To State: 1 Prob: 0.8116949539325691
+Final Iteration's Plog Sum: 22331.660863123918
+
+State0 To State: 0 Prob: 0.5433731450264606
+State0 To State: 1 Prob: 0.4566268549735394
+State1 To State: 0 Prob: 0.5297566764844845
+State1 To State: 1 Prob: 0.47024332351551545
+Final Iteration's Plog Sum: 22331.666083136603
+
+Looking at the data it appears that when there is a greater initial gap between Aij and Aji there is more likely to be a smaller plog and so a greater probability which means a better analysis of the English data.
